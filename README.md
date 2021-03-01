@@ -7,9 +7,12 @@ As tecnologias utilizadas foram React, Typescript e NextJS
 
 **Funcionalidades:** 
 A funcionalidade mais aparente é o botão de "Iniciar um ciclo" 
-![image](https://user-images.githubusercontent.com/53949034/109439611-d7494980-7a0d-11eb-9494-be8ee732269a.png)
 
+
+![image](https://user-images.githubusercontent.com/53949034/109439611-d7494980-7a0d-11eb-9494-be8ee732269a.png)
 , quando clicamos nele o timer começa e caso ele chegue a 0 sem ser interrompido você será notificado com um som da notificação e receberá um novo desafio 
+
+
 ![image](https://user-images.githubusercontent.com/53949034/109439659-0fe92300-7a0e-11eb-998b-57cbed748b12.png) 
 Caso você complete o desafio você receberá uma quantia de XP e o seu indicador de desafios concluídos irá acumular, porém caso você não complete o botão de "Iniciar um ciclo" aparecerá novamente. 
 
