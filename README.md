@@ -15,6 +15,7 @@ A funcionalidade mais aparente é o botão de "Iniciar um ciclo"
 
 ![image](https://user-images.githubusercontent.com/53949034/109439659-0fe92300-7a0e-11eb-998b-57cbed748b12.png) 
 
+
 Caso você complete o desafio você receberá uma quantia de XP e o seu indicador de desafios concluídos irá acumular, porém caso você não complete o botão de "Iniciar um ciclo" aparecerá novamente. 
 
 ![image](https://user-images.githubusercontent.com/53949034/109439921-0dd39400-7a0f-11eb-9bc9-7e080aeab15b.png)
@@ -22,7 +23,8 @@ Caso você complete o desafio você receberá uma quantia de XP e o seu indicado
 Este é um bom exemplo de como o seu contador ficará.
 
 
-Caso você clique no botão "Iniciar um ciclo e logo após clicar em "Abandonar ciclo" o timer irá reiniciar, pois não podemos trapaçear nos nossos momentos de concentração 
+
+E por fim, caso você clique no botão "Iniciar um ciclo e logo após clicar em "Abandonar ciclo" o timer irá reiniciar, pois não podemos trapaçear nos nossos momentos de concentração 
 
 ![image](https://user-images.githubusercontent.com/53949034/109439746-622a4400-7a0e-11eb-8202-5361edcd643e.png)
 
