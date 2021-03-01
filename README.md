@@ -1,37 +1,100 @@
-# MoveIt
-Esta é uma aplicação que promove a saúde para quem tende a ficar muitas horas seguidas utilizando o computador, por isso seguindo a lógica de concentração "Pomodoro" foi desenvolvido essa aplicação que consiste em realizar diferentes exercícios durante intervalos cronometrados, alguns exemplos são exercícios para a visão e para diferentes regiões do nosso corpo. As tecnologias utilizadas para o desenvolvimento do mesmo foram React, Typescript e NextJS.
+<!-- TABELA DE CONTEUDOS -->
+
+* [Sobre o projeto](#book-about-the-project)
+  * [Versões](#bookmark-tabs-versions)
+    * [1.0](#label-1.0)
+  * [Tecnologias](#computer-tecnologias)
+  * [Features](#sparkles-features)
+    * [Versão 1.0](#label-versão-1.0)
+* [Instalação](#bricks-instalação)
+  * [Pré-requisitos](#construction-pré-requisitos)
+  * [Front-end](#lipstick-front-end)
+    * [Instalando dependências](#construction-Instalando-dependências)
+    * [Configurando o Front-end](#wrench-Configurando-front-end)
+    * [Running Front-end](#arrow_forward-Rodando-front-end)
+* [Autor](#man_technologist-autor)
+
+## :book: Sobre o projeto
+
+Esta é uma aplicação que promove a saúde para quem tende a ficar muitas horas seguidas utilizando o computador, por isso seguindo a lógica de concentração "Pomodoro" foi desenvolvido essa aplicação que consiste em realizar diferentes exercícios durante intervalos cronometrados, alguns exemplos são exercícios para a visão e para diferentes regiões do nosso corpo.
+
+Você pode conferir em: [here](https://focuson-theta.vercel.app).
+
+### :bookmark_tabs: Versions
+
+#### :label: 1.0
+
+In version 1.0: É baseado no projeto da Rocketseat: [Rockseat's](https://rocketseat.com.br), Moveit, desenvolvido durante a Next Level Week #4. 
+O usuário receberá uma tarefa sempre que o contador zerar e receberá xp por completar o desafio. 
+
+Algumas mudanças:
+WIP
+
+### :computer: Tecnologias
 
 
-**Primeiros passos:** 
-Para começarmos precisamos escolher alguma IDE de sua preferência, neste exemplo estarei utilizando o Visual Studio Code, antes de começarmos qualquer coisa precisamos instalar o Node (v14.15.5), NPM (v6.14.11) e o Yarn (v1.22.0), agora sim nós já podemos fazer o clone do projeto, logo após isso se certifique de entrar no diretório correto pelo terminal, no mesmo utilize o comando "yarn" para instalarmos todas as dependências automaticamente. Se nenhum erro aparecer você pode iniciar a aplicação com o comando "yarn dev" e você verá a seguinte tela (Lembrando que o meu navegador é o Opera e que precisamos permitir as notificações): 
+* [React](https://reactjs.org)
+* [Next](https://nextjs.org)
+* [Yarn](https://yarnpkg.com)
+* [TypeScript](https://www.typescriptlang.org)
 
-![image](https://user-images.githubusercontent.com/53949034/109439542-7ae62a00-7a0d-11eb-801e-4c200724e91f.png)
- 
- 
- 
+### :sparkles: Features
 
-**Como funciona?** 
+#### :label: Versão 1.0
 
-A funcionalidade mais aparente é o botão para "Iniciar um ciclo" 
+  - [x] Barra de experiência
+  - [x] Contador
+  - [x] Sistema de aumento de nível
+  - [ ] Compartilhar no twitter
+  - [ ] Tela de login
+  
+
+## :bricks: Instalação
+
+Esse projeto usa [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com), você irá precisar deles para instalar as dependências.
+
+### :construction: Prerequisitos
+
+Clone o repositório deste projeto:
+```bash
+
+$ git clone https://github.com/GabrieLopes/MoveIt.git
+#Entre na pasta do MoveIt:
+
+$ cd moveit
+```
+
+🚨 Se você não possui git na sua máquina, você pode instala-lo aqui: [here](https://git-scm.com/downloads).
+
+## :lipstick: Front-end
+
+### :construction: Instalando as dependências
+
+Na pasta do MoveIt as dependências são instaladas da seguinte maneira:
+
+```bash
+
+$ yarn install
+
+```
+
+### :wrench: Preparando Front-end
 
 
-![image](https://user-images.githubusercontent.com/53949034/109439611-d7494980-7a0d-11eb-9494-be8ee732269a.png)
 
-Quando clicamos nele o timer começa e caso ele chegue a "00:00" sem ser interrompido você será notificado com o som da notificação e receberá um novo desafio 
+### :arrow_forward: Executando Front-end
 
+Execute o seguinte comando para visualizar a aplicação:
 
-![image](https://user-images.githubusercontent.com/53949034/109439659-0fe92300-7a0e-11eb-998b-57cbed748b12.png) 
+```bash
+$ yarn dev
+```
 
-
-Caso você complete o desafio você receberá uma quantia de XP e o seu indicador de desafios concluídos irá acumular, porém caso você não complete o botão de "Iniciar um ciclo" aparecerá novamente. 
-
-![image](https://user-images.githubusercontent.com/53949034/109439921-0dd39400-7a0f-11eb-9bc9-7e080aeab15b.png)
-
-Este é um bom exemplo de como o seu contador ficará.
+A aplicação estará disponível em: `http://localhost:3000/`.
 
 
-
-E por fim, caso você clique no botão "Iniciar um ciclo" e logo após clicar em "Abandonar ciclo" o timer irá reiniciar, pois não podemos trapaçear nos nossos momentos de concentração 
-
-![image](https://user-images.githubusercontent.com/53949034/109439746-622a4400-7a0e-11eb-8202-5361edcd643e.png)
-
+## :man_technologist: Autor
+<p align="center">
+  <a href="https://github.com/GabrieLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrieLopes" alt="Github" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-lopes-0b8549189/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lopes-0b8549189/" alt="LinkendIn" /></a>
+</p>
