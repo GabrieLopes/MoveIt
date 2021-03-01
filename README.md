@@ -1,7 +1,7 @@
 <!-- TABELA DE CONTEUDOS -->
 Tabela de Conteúdos
 * [Sobre o projeto](#book-sobre-o-projeto)
-  * [Versões](#bookmark-tabs-Versões)
+  * [Versões](#bookmark-tabs-Versoes)
     * [1.0](#label-1.0)
   * [Tecnologias](#computer-tecnologias)
   * [Features](#sparkles-features)
