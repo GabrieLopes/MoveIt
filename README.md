@@ -1,11 +1,8 @@
 <!-- TABELA DE CONTEUDOS -->
 Tabela de Conteúdos
 * [Sobre o projeto](#book-sobre-o-projeto)
-  * [Versões](#bookmark-tabs-Versoes)
-    * [1.0](#label-1.0)
   * [Tecnologias](#computer-tecnologias)
   * [Features](#sparkles-features)
-    * [Versão 1.0](#label-versão-1.0)
 * [Instalação](#bricks-instalação)
   * [Pré-requisitos](#construction-pré-requisitos)
   * [Front-end](#lipstick-front-end)
@@ -24,7 +21,7 @@ Você pode conferir em: [aqui](https://move-it-bhi9nedzf-gabrielopes.vercel.app)
 
 #### :label: 1.0
 
-Na versão 1.0: É baseado no projeto da Rocketseat: [Rockseat's](https://rocketseat.com.br), Moveit, desenvolvido durante a Next Level Week #4. 
+Na versão 1.0: É baseado no projeto da Rocketseat: [Rockseat](https://rocketseat.com.br), Moveit, desenvolvido durante a Next Level Week #4. 
 O usuário receberá uma tarefa sempre que o contador zerar e receberá xp por completar o desafio. 
 
 Algumas mudanças:
@@ -64,7 +61,7 @@ $ git clone https://github.com/GabrieLopes/MoveIt.git
 $ cd moveit
 ```
 
-🚨 Se você não possui git na sua máquina, você pode instala-lo aqui: [here](https://git-scm.com/downloads).
+🚨 Se você não possui git na sua máquina, você pode instala-lo: [aqui](https://git-scm.com/downloads).
 
 ## :lipstick: Front-end
 
