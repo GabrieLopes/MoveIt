@@ -7,8 +7,8 @@ As tecnologias utilizadas foram React, Typescript e NextJS
 ![image](https://user-images.githubusercontent.com/53949034/109439542-7ae62a00-7a0d-11eb-801e-4c200724e91f.png)
  
 
-**Funcionalidades:** 
-A funcionalidade mais aparente é o botão de "Iniciar um ciclo" 
+**Como funciona?** 
+A funcionalidade mais aparente é o botão para "Iniciar um ciclo" 
 
 
 ![image](https://user-images.githubusercontent.com/53949034/109439611-d7494980-7a0d-11eb-9494-be8ee732269a.png)
