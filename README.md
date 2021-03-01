@@ -5,7 +5,7 @@ Tabela de Conteúdos
     * [1.0](#label-1.0)
   * [Tecnologias](#computer-tecnologias)
   * [Features](#sparkles-features)
-    * [Versão 1.0](#label-versão-1.0)
+    * [Versão 1.0](#label-versao-1.0)
 * [Instalação](#bricks-instalação)
   * [Pré-requisitos](#construction-pré-requisitos)
   * [Front-end](#lipstick-front-end)
@@ -53,7 +53,7 @@ WIP
 
 Esse projeto usa [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com), você irá precisar deles para instalar as dependências.
 
-### :construction: Prerequisitos
+### :construction: Pré-requisitos
 
 Clone o repositório deste projeto:
 ```bash
