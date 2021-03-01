@@ -1,7 +1,7 @@
 <!-- TABELA DE CONTEUDOS -->
-
-* [Sobre o projeto](#book-about-the-project)
-  * [Versões](#bookmark-tabs-versions)
+Tabela de Conteúdos
+* [Sobre o projeto](#book-sobre-o-projeto)
+  * [Versões](#bookmark-tabs-Versões)
     * [1.0](#label-1.0)
   * [Tecnologias](#computer-tecnologias)
   * [Features](#sparkles-features)
@@ -20,7 +20,7 @@ Esta é uma aplicação que promove a saúde para quem tende a ficar muitas hora
 
 Você pode conferir em: [here](https://focuson-theta.vercel.app).
 
-### :bookmark_tabs: Versions
+### :bookmark_tabs: Versões
 
 #### :label: 1.0
 
